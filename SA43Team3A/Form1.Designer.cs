@@ -33,6 +33,7 @@
             this.metroRadioButton1 = new MetroFramework.Controls.MetroRadioButton();
             this.metroLabel1 = new MetroFramework.Controls.MetroLabel();
             this.metroRadioButton2 = new MetroFramework.Controls.MetroRadioButton();
+            this.metroLabel2 = new MetroFramework.Controls.MetroLabel();
             this.SuspendLayout();
             // 
             // metroButton1
@@ -85,11 +86,21 @@
             this.metroRadioButton2.UseVisualStyleBackColor = true;
             this.metroRadioButton2.CheckedChanged += new System.EventHandler(this.metroRadioButton2_CheckedChanged);
             // 
+            // metroLabel2
+            // 
+            this.metroLabel2.AutoSize = true;
+            this.metroLabel2.Location = new System.Drawing.Point(629, 64);
+            this.metroLabel2.Name = "metroLabel2";
+            this.metroLabel2.Size = new System.Drawing.Size(32, 19);
+            this.metroLabel2.TabIndex = 5;
+            this.metroLabel2.Text = "Test";
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(812, 528);
+            this.Controls.Add(this.metroLabel2);
             this.Controls.Add(this.metroRadioButton2);
             this.Controls.Add(this.metroLabel1);
             this.Controls.Add(this.metroRadioButton1);
@@ -110,6 +121,7 @@
         private MetroFramework.Controls.MetroRadioButton metroRadioButton1;
         private MetroFramework.Controls.MetroLabel metroLabel1;
         private MetroFramework.Controls.MetroRadioButton metroRadioButton2;
+        private MetroFramework.Controls.MetroLabel metroLabel2;
     }
 }
 
