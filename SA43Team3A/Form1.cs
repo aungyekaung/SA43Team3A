@@ -23,5 +23,15 @@ namespace SA43Team3A
         {
 
         }
+
+        private void metroRadioButton1_CheckedChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void metroRadioButton2_CheckedChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }

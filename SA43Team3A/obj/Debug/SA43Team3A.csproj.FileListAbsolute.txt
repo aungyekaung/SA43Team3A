@@ -1,1 +1,12 @@
 c:\users\e0046809\documents\visual studio 2013\Projects\SA43Team3A\SA43Team3A\bin\Debug\SA43Team3A.exe.config
+C:\Users\e0046631\Documents\Visual Studio 2013\Projects\SA43Team3A\SA43Team3A\bin\Debug\SA43Team3A.exe.config
+C:\Users\e0046631\Documents\Visual Studio 2013\Projects\SA43Team3A\SA43Team3A\bin\Debug\SA43Team3A.exe
+C:\Users\e0046631\Documents\Visual Studio 2013\Projects\SA43Team3A\SA43Team3A\bin\Debug\SA43Team3A.pdb
+C:\Users\e0046631\Documents\Visual Studio 2013\Projects\SA43Team3A\SA43Team3A\bin\Debug\MetroFramework.dll
+C:\Users\e0046631\Documents\Visual Studio 2013\Projects\SA43Team3A\SA43Team3A\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\e0046631\Documents\Visual Studio 2013\Projects\SA43Team3A\SA43Team3A\obj\Debug\SA43Team3A.csprojResolveAssemblyReference.cache
+C:\Users\e0046631\Documents\Visual Studio 2013\Projects\SA43Team3A\SA43Team3A\obj\Debug\SA43Team3A.Form1.resources
+C:\Users\e0046631\Documents\Visual Studio 2013\Projects\SA43Team3A\SA43Team3A\obj\Debug\SA43Team3A.Properties.Resources.resources
+C:\Users\e0046631\Documents\Visual Studio 2013\Projects\SA43Team3A\SA43Team3A\obj\Debug\SA43Team3A.csproj.GenerateResource.Cache
+C:\Users\e0046631\Documents\Visual Studio 2013\Projects\SA43Team3A\SA43Team3A\obj\Debug\SA43Team3A.exe
+C:\Users\e0046631\Documents\Visual Studio 2013\Projects\SA43Team3A\SA43Team3A\obj\Debug\SA43Team3A.pdb
